@@ -1,0 +1,10 @@
+"#row":{
+	height: "40dp",
+	hasChild: true
+},
+"#itemName": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	left: 0
+}
